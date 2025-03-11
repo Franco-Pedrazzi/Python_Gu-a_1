@@ -1,0 +1,1 @@
+print(input("Inserte Nombre de usuario "))
